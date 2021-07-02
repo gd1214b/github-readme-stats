@@ -142,7 +142,7 @@ dracula
 
 
 
-你可以预览[所有可用主题](../themes/README.md)或者签出[主题配置文件](../themes/index.js), 而且如果你喜欢, **你也可以贡献新的主题** :D
+你可以预览[所有可用主题](https://github.com/gd1214b/github-readme-stats/blob/master/themes/README.md)或者导出[主题配置文件](https://github.com/gd1214b/github-readme-stats/blob/master/themes/index.js), 而且如果你喜欢, **你也可以贡献新的主题** :D
 
 ### 自定义
 
@@ -155,7 +155,7 @@ dracula
 - `icon_color` - 图标颜色（如果可用）_（十六进制色码）_
 - `bg_color` - 卡片背景颜色 _（十六进制色码）_ **或者** 以 _angle,start,end_ 的形式渐变
 - `hide_border` - 隐藏卡的边框 _(布尔值)_
-- `theme` - 主题名称，从[所有可用主题](../themes/README.md)中选择
+- `theme` - 主题名称，从[所有可用主题](https://github.com/gd1214b/github-readme-stats/blob/master/themes/README.md)中选择
 - `cache_seconds` - 手动设置缓存头 _（最小值: 1800，最大值: 86400）_
 - `locale` - 在卡片中设置语言 _(例如 cn, de, es, 等等)_
 
