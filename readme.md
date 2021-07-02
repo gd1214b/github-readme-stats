@@ -3,7 +3,7 @@
  <h2 align="center">GitHub Readme Stats</h2>
  <p align="center">在你的 README 中获取动态生成的 GitHub 统计信息！</p>
 
-  </p>
+
 
 
   <p align="center">
@@ -34,9 +34,8 @@
     .
     <a href="/docs/readme_np.md">नेपाली</a>
   </p>
-</p>
 
-<p align="center">喜欢这个项目？请考虑<a href="https://www.paypal.me/gd1214b">捐赠</a>来帮助它完善！
+
 
 # 特性
 
@@ -101,9 +100,47 @@ _注：如果你是自己部署本项目，私人贡献将会默认被计数，�
 
 #### 所有现有主题
 
-dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula
+dark
 
-<img src="https://res.cloudinary.com/anuraghazra/image/upload/v1595174536/grs-themes_l4ynja.png" alt="GitHub Readme Stat Themes" width="600px"/>
+![gd1214b's GitHub stats](https://github-stats.gd1214b.tk/api?username=gd1214b&show_icons=true&theme=dark)
+
+radical
+
+![gd1214b's GitHub stats](https://github-stats.gd1214b.tk/api?username=gd1214b&show_icons=true&theme=radical)
+
+merko
+
+![gd1214b's GitHub stats](https://github-stats.gd1214b.tk/api?username=gd1214b&show_icons=true&theme=merko)
+
+gruvbox
+
+![gd1214b's GitHub stats](https://github-stats.gd1214b.tk/api?username=gd1214b&show_icons=true&theme=gruvbox)
+
+tokyonight
+
+![gd1214b's GitHub stats](https://github-stats.gd1214b.tk/api?username=gd1214b&show_icons=true&theme=tokyonight)
+
+onedark
+
+![gd1214b's GitHub stats](https://github-stats.gd1214b.tk/api?username=gd1214b&show_icons=true&theme=onedark)
+
+cobalt
+
+![gd1214b's GitHub stats](https://github-stats.gd1214b.tk/api?username=gd1214b&show_icons=true&theme=cobalt)
+
+synthwave
+
+![gd1214b's GitHub stats](https://github-stats.gd1214b.tk/api?username=gd1214b&show_icons=true&theme=synthwave)
+
+highcontrast
+
+![gd1214b's GitHub stats](https://github-stats.gd1214b.tk/api?username=gd1214b&show_icons=true&theme=highcontrast)
+
+dracula
+
+![gd1214b's GitHub stats](https://github-stats.gd1214b.tk/api?username=gd1214b&show_icons=true&theme=dracula)
+
+
 
 你可以预览[所有可用主题](../themes/README.md)或者签出[主题配置文件](../themes/index.js), 而且如果你喜欢, **你也可以贡献新的主题** :D
 
