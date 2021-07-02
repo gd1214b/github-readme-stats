@@ -56,7 +56,7 @@
 [![gd1214b's GitHub stats](https://github-stats.gd1214b.tk/api?username=gd1214b)](https://github.com/anuraghazra/github-readme-stats)
 ```
 
-_注: 等级基于用户的统计信息计算得出，详见 [src/calculateRank.js](../src/calculateRank.js)_
+_注: 等级基于用户的统计信息计算得出，详见 [src/calculateRank.js](https://github.com/gd1214b/github-readme-stats/blob/master/src/calculateRank.js)_
 
 ### 隐藏指定统计
 
